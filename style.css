@@ -1,0 +1,18 @@
+.content{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 30px;
+}
+.card {
+    width: 250px;
+    left: 230px;    
+}
+
+h1{
+    text-align: center;
+    color: rgb(70, 17, 17);
+}
